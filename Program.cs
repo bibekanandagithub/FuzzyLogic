@@ -2,7 +2,7 @@
 
 namespace FuzzyLogic
 {
-    class Program
+    class FuzzyLogicTech
     {
         static void Main(string[] args)
         {
